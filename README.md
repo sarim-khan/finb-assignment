@@ -4,7 +4,7 @@ This project is my submission for the Finb Tech Frontend Engineer Technical Assi
 
 ## Live Demo
 
-[View Live Demo](https://finb-tech-dashboard.vercel.app)
+[View Live Demo](https://finb-assignment-git-main-sarim-khans-projects-7bb65e06.vercel.app/)
 
 ## Project Overview
 
@@ -166,7 +166,7 @@ Given more time, I would implement the following improvements:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/finb-tech-dashboard.git
+   git clone https://github.com/sarim-khan/finb-assignment
    cd finb-tech-dashboard
    \`\`\`
 
