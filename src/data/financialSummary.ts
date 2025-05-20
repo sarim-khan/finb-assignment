@@ -1,0 +1,32 @@
+export const financialSummary = {
+  monthly: {
+    balance: 12345.67,
+    balanceChange: 3.5,
+    income: 5000,
+    incomeChange: 2.1,
+    expenses: 3000,
+    expensesChange: -1.5,
+    savingsRatio: 40,
+    savingsRatioChange: 5.2,
+  },
+  quarterly: {
+    balance: 12345.67,
+    balanceChange: 5.2,
+    income: 15000,
+    incomeChange: 3.8,
+    expenses: 9000,
+    expensesChange: -2.3,
+    savingsRatio: 40,
+    savingsRatioChange: 7.5,
+  },
+  yearly: {
+    balance: 12345.67,
+    balanceChange: 12.7,
+    income: 60000,
+    incomeChange: 8.4,
+    expenses: 36000,
+    expensesChange: 1.2,
+    savingsRatio: 40,
+    savingsRatioChange: 10.3,
+  },
+}
